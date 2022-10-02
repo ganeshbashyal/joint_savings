@@ -6,9 +6,9 @@
 
 ![](./Images/zero-Balance.png)
 
-![](./Images/Deposit_1_Eth as Wei.png)
+![](./Images/Deposit_1_Eth_as_Wei.png)
 
-![](./Images/Deposit_10_Eth as Wei.png)
+![](./Images/Deposit_10_Eth_as_Wei.png)
 
 ![](./Images/Deposit_15_Eth.png)
 
