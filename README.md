@@ -1,13 +1,17 @@
-# joint_savings
+# Joint Savings
 
 # This app is to automate financial transactions using blockchain technology. A solidity smart contract will be created that accepts two addresses that will be able to control the joint account.
 
 
 
 ![](./Images/zero-Balance.png)
-![](./Images/Deposit 1 Eth as Wei.png)
-![](./Images/Deposit 10 Eth as Wei.png)
 
-![](./Images/Deposit 15 Eth.png)
-![](./Images/WDL 10 Eth.png)
-![](./Images/WDL 5 Eth.png)
+![](./Images/Deposit_1_Eth as Wei.png)
+
+![](./Images/Deposit_10_Eth as Wei.png)
+
+![](./Images/Deposit_15_Eth.png)
+
+![](./Images/WDL_10_Eth.png)
+
+![](./Images/WDL_5_Eth.png)
